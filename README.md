@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tinnapat Sukwattanamongkol
 ==================================================================================================================================================
 
-Full-Stack Developer
+Developer (in training)
 --------------------
 
 I've learning to be a Developer for around 6 months.
