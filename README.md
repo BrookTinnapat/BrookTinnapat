@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've learning to be a Developer for around 6 months.
+Educated in Civil Engineering from Suranaree University of Technology, now passionate about Full Stack Development.  I am now seeking opportunities in Full Stack Development, encompassing both front-end and back-end roles. Passionate about leveraging my problem-solving skills and technical expertise to build innovative and scalable web solutions.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [brooksuk2@gmail.com](mailto:brooksuk2@gmail.com)
